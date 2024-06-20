@@ -79,6 +79,20 @@ button{
     padding: 20px 150px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: center;   
+}
+
+
+.second-container {
+    color: #1F2937;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px 300px;
+    border: 4px solid green;
+}
+
+.information-header-text{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1F2937;
 }
